@@ -1,0 +1,6 @@
+{
+  "name": "نیرا شبکه - Nira Network",
+  "description": "پلتفرم جامع معرفی و فروشگاه تخصصی زیرساخت‌های شبکه و فیبر نوری با پنل ادمین، پنل کاربری، سیستم هوش مصنوعی مشاوره شبکه و سازگار با المنتور و ووکامرس",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
